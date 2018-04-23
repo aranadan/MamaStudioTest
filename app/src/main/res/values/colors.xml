@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#F05223</color>
+    <color name="colorPrimaryDark">#D04227</color>
+    <color name="colorAccent">#FFFFFF</color>
+
+    <color name="events_description">#762214</color>
+    <color name="shops_description">#808284</color>
+    <color name="button_show_on_map">#7ab539</color>
+
+</resources>

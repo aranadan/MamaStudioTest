@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MamaStudioTest</string>
+    <string name="events">Events</string>
+    <string name="shops">Shops</string>
+    <string name="action_bar_title">Android World</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
